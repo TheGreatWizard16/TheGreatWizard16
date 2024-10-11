@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TheGreatWizard16
-- 👀 I’m interested in full stack web development 
-- 🌱 I’m currently learning AWS & web development 
+- Software engineering student
 - 💞️ I’m looking to collaborate on projects to make us better
 - 📫 reach me on IG @braham_xx
 
