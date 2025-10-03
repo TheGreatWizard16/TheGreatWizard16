@@ -53,25 +53,33 @@ Currently pursuing a **B.Sc. in Software Engineering** in Berlin. Passionate abo
 
 ## 📂 Projects
 
+### [Abraham AI Chat Project](https://abraham-ai-cl.vercel.app/)
+- **Live Demo:** [https://abraham-ai-cl.vercel.app/](https://abraham-ai-cl.vercel.app/)  
+- AI-powered chat application with **React**, **Node.js**, and real-time messaging.  
+- Features authentication and intelligent responses.  
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
 ### [Data Structures & Algorithms Visualizer](https://github.com/TheGreatWizard16/dsa-visualizer)
-- Visualizes sorting, searching, and graph algorithms step-by-step.  
+- Step-by-step visualization of sorting, searching, and graph algorithms.  
 - Built with **Python** & **JavaScript**.  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 ### [Real-Time Chat Application](https://github.com/TheGreatWizard16/real-time-chat-app)
 - Multi-user chat with **React frontend** & **Flask backend**.  
 - Includes authentication, message persistence, and real-time messaging.  
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 
 ### [Smart Email/Text Classifier](https://github.com/TheGreatWizard16/smart-email-classifier)
 - Python ML model classifying emails/messages as spam or important.  
 - Uses **TF-IDF**, tokenization, and evaluates with accuracy & F1-score.  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ---
 
 ## 📊 GitHub Stats
-![Segun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGreatWizard16&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGreatWizard16&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheGreatWizard16&theme=radical)
+![Segun's GitHub Stats](https://github-readme-stat-wheat.vercel.app/api?username=TheGreatWizard16&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stat-wheat.vercel.app/api/top-langs/?username=TheGreatWizard16&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-stat-wheat.vercel.app/api/streak-stats?user=TheGreatWizard16&theme=radical)
 
 ---
 
@@ -81,4 +89,3 @@ Currently pursuing a **B.Sc. in Software Engineering** in Berlin. Passionate abo
 - Applied Machine Learning in Python
 
 ---
-
