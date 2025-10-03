@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Segun Oladimeji
+# 👋 Hi, I’m Segun Abrahm Oladimeji
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/segun-oladimeji) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheGreatWizard16) 
